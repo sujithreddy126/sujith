@@ -69,7 +69,7 @@ namespace jpegHTTPTrigger
 
             return name == null
                 ? req.CreateResponse(HttpStatusCode.BadRequest, "Please pass a Path  in the request body")
-                : req.CreateResponse(HttpStatusCode.OK, "Uploaded to  Azure Storage Blob" );
+                : req.CreateResponse(HttpStatusCode.OK, "Uploaded to   Storage Blob" );
         }
     }
 }
