@@ -5,6 +5,5 @@
     "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
     "cv": "DefaultEndpointsProtocol=https;AccountName=sujithstoragetables;AccountKey=g+fwhJ1yhoyYWBggQkNSPaLqVW0ILatEvS8I36IQFHZaZdeQ1TNjKgaq2a2aJSJPdzHyaWbPTG8u+gMKCH6FEA==;EndpointSuffix=core.windows.net",
     "pass": "DefaultEndpointsProtocol=https;AccountName=passstoragesujith;AccountKey=vWIZyplCHBzRiShgQ1RADo9G4dHoWF6H0PC2Dgs/G6ki8k+SvQuplUN5n3dTRgM9IO0uFkGddjzaPNACAXwi+Q==;EndpointSuffix=core.windows.net"
-
   }
 }
